@@ -1,0 +1,16 @@
+{
+  "moduleId": "webwaka-core-notifications",
+  "version": "0.0.0",
+  "class": "core",
+  "name": "Notifications Core",
+  "description": "Communication & Media - Notification delivery services",
+  "repository": "https://github.com/changerplanet/webwaka-core-notifications",
+  "author": "WebWaka Team",
+  "license": "TBD",
+  "capabilities": [],
+  "dependencies": [],
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "main": "./dist/index.js"
+  }
+}
